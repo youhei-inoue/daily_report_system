@@ -58,11 +58,11 @@ public enum AttributeConst {
         this.i = i;
     }
 
-    public String text() {
+    public String getValue() {
         return this.text;
     }
 
-    public Integer i() {
+    public Integer getIntegerValue() {
         return this.i;
     }
 
